@@ -1,6 +1,4 @@
-//Assignment NO 1
-// storing a person name in variables
+//Assignment No 1
+// print hello world
 
-let personName : string = "Asma";
- //Printing a message to the person
- console.log(`Hello ${personName}, would you like to learn some Coding today?`);
+console.log("Hello,world!")
